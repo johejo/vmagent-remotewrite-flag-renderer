@@ -1,0 +1,9 @@
+remote_write:
+  - url: http://localhost:9000
+    basic_auth:
+      username: foo
+      password: bar
+  - url: http://localhost:9001
+    basic_auth:
+      username: hello
+      password: world

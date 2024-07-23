@@ -1,0 +1,18 @@
+{
+  "remoteWrite": [
+    {
+      "basicAuth": {
+        "password": "hello",
+        "username": "foo"
+      },
+      "url": "http://localhost:9000"
+    },
+    {
+      "basicAuth": {
+        "password": "world",
+        "username": "bar"
+      },
+      "url": "http://localhost:9001"
+    }
+  ]
+}
